@@ -1,6 +1,7 @@
 # Bleach-Heat-the-Soul-7-traducao-PT-BR
 
 Uma tradução feita por Antraz (eu) do jogo de Playstation Portable (PSP) em Português do Brasil, baseado na versão do mod em inglês.
+
 A translation made by Antraz (me) of the Playstation Portable (PSP) game in Portuguese of Brazil, based on the English version of the mod.
 
 Considere apoiar esse projeto e me incentivar a continuar melhorando a tradução.
