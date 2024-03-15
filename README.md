@@ -4,6 +4,7 @@ Uma tradução feita por Antraz (eu) do jogo de Playstation Portable (PSP) em Po
 A translation made by Antraz (me) of the Playstation Portable (PSP) game in Portuguese of Brazil, based on the English version of the mod.
 
 Considere apoiar esse projeto e me incentivar a continuar melhorando a tradução.
+
 Chave pix: fb5c5a32-b2aa-4a59-9612-618a04437feb
 
 Meu canal no Youtube: https://www.youtube.com/channel/UCiaFqmMZ5wsTVsJ8Aoo-fig
