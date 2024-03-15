@@ -11,11 +11,17 @@ Meu canal no Youtube: https://www.youtube.com/channel/UCiaFqmMZ5wsTVsJ8Aoo-fig
 -_COMO INSTALAR_-
 
 1 - Tenha uma cópia do jogo Bleach Heat the Soul 7 (não importa a versão).
+
 2 - Tenha o Emulador PPSSPP.
+
 3 - Tenha um descompactador (exemplo: Winrar, Zarchiver).
+
 4 - Baixe a tradução e descompacte.
+
 5 - localize o caminho \PPSSPP\PSP\TEXTURES e coloque dentro dessa pasta o arquivo traduzido.
+
 6 - Vá até: configurações > Ferramentas > Ferramentas de desenvolvedor > ative a opção Salvar novas texturas.
+
 7 - Teste a Tradução.
 
 Observações:
