@@ -5,6 +5,7 @@ A translation made by Antraz (me) of the Playstation Portable (PSP) game in Port
 
 Considere apoiar esse projeto e me incentivar a continuar melhorando a tradução.
 Chave pix: fb5c5a32-b2aa-4a59-9612-618a04437feb
+
 Meu canal no Youtube: https://www.youtube.com/channel/UCiaFqmMZ5wsTVsJ8Aoo-fig
 
 _C O M O   I N S T A L A R_
