@@ -9,6 +9,8 @@ Chave pix: fb5c5a32-b2aa-4a59-9612-618a04437feb
 
 Meu canal no Youtube: https://www.youtube.com/channel/UCiaFqmMZ5wsTVsJ8Aoo-fig
 
+
+
 -_COMO INSTALAR_-
 
 1 - Tenha uma cópia do jogo Bleach Heat the Soul 7 (não importa a versão).
